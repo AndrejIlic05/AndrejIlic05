@@ -4,7 +4,7 @@
 # Hi there 👋, I'm Andrej Ilić
 I'm Andrej from Serbia, and I do Front-end and Back-end Development. i enjoy learning languages an frameworks like React, as well as works in Webflow.
 
-## Front-end Skills and Experience
+## Web Development Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS
 * 🐘 PHP
