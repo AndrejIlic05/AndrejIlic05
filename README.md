@@ -1,6 +1,6 @@
 ### Hi there 👋, Andrej Ilić
 #### Front-end Development
-![Front-end Development](https://github.com/AndrejIlic05/Banner/blob/main/Make%20your%20README.png?raw=true)
+![Front-end Development](https://github.com/AndrejIlic05/AndrejIlic05/blob/main/Make%20your%20README.png?raw=true)
 
 I'm Andrej from Serbia, and I do Front-end and Back-end Development. i enjoy learning languages an frameworks like React, as well as works in Webflow.
 
