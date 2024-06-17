@@ -1,7 +1,7 @@
 ![Front-end Development](https://github.com/AndrejIlic05/AndrejIlic05/blob/main/Make%20your%20README.png?raw=true)
 
 
-### Hi there 👋, I'm Andrej Ilić
+# Hi there 👋, I'm Andrej Ilić
 I'm Andrej from Serbia, and I do Front-end and Back-end Development. i enjoy learning languages an frameworks like React, as well as works in Webflow.
 
 ## Front-end Skills and Experience
@@ -10,7 +10,7 @@ I'm Andrej from Serbia, and I do Front-end and Back-end Development. i enjoy lea
 * 🐘 PHP
 * 🌀 Webflow
 
-## Other skills and Experience
+### Other skills and Experience
 * ⚙️ C, C#
 
 - 🔭 I’m currently working on building my portfolio 
